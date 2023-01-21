@@ -18,13 +18,13 @@ var chart;         ///< Chart.js object
 
 var timer; ///< request timer
 var http = "http://";
-var ip = "192.168.0.21";
+var ip1;
 var file = "/ProjektAiR/get_chart_mes.php";
 var file2 = "/ProjektAiR/skrypt/save.txt";
 var file3 = "/ProjektAiR/skrypt/save.php";
-var url = http+ip+file;
-var url2 = http+ip+file2;
-var url3 = http+ip+file3;
+var url
+var url2;
+var url3;
 //const url = 'http://192.168.0.13:800/measurements.php'; ///< server app with JSON API
 //const url = 'http://' + window.location.hostname + '/nocache/chartdata.json'
 
@@ -73,32 +73,35 @@ function stopTimer(){
 */
 
 function setsettings(){
-	stopTimer();
+	
 	sample = document.getElementById('sample').value;
 	maxsample = document.getElementById('maxsample').value;
-	ip = document.getElementById('ipadres').value;
+	ip1 = document.getElementById('ipadres').value;
 	api = document.getElementById('apiver').value;
 	
+	document.getElementById('sampletime').innerHTML = sample;
+	document.getElementById('samplenumber').innerHTML = maxsample;
+};
+
+function popset(){
+  	url = http+ip1+file;
+	url2 = http+ip1+file2;
+	url3 = http+ip1+file3;
+  };
+
+function updatedata(){
+	stopTimer();
+	setsettings();
+	
+	ip1 = document.getElementById('ipadres').value;
+	document.getElementById('sampletime').innerHTML = sample;
+	document.getElementById('samplenumber').innerHTML = maxsample;
+
 	sampleTimeMsec = sample;
 	sampleTimeSec = sample/1000;
 	maxSamplesNumber = maxsample;
 	
-	url = http+ip+file;
-	url2 = http+ip+file2;
-	url3 = http+ip+file3;
-	
-	setings = {
-	"ip":ip,
-	"sample":sample,
-	"maxsample":maxsample,
-	"api":api
-	}
-	
-	document.getElementById('sampletime').innerHTML = sample;
-	document.getElementById('samplenumber').innerHTML = maxsample;
-	saveToFile(setings)
-
-	//startTimer();
+	popset();
 };
 
 function saveToFile(setings){
@@ -113,7 +116,7 @@ function ajaxJSON() {
   $.ajax(url, {
     type: 'GET', dataType: 'json',
     success: function(responseJSON, status, xhr) {
-      addData(+responseJSON[0].orientX,+responseJSON[1].orientY,+responseJSON[2].orientZ);
+      addData(+responseJSON[0].value,+responseJSON[1].value,+responseJSON[2].value);
     }
   });
 }
@@ -208,11 +211,12 @@ function chartInit()
 
 $(document).ready(() => { 
   chartInit();
-  ajaxJSON2();
+  updatedata();
+  //ajaxJSON2();
   $.ajaxSetup({ cache: false }); // Web browser cache control
   $("#start").click(startTimer);
   $("#stop").click(stopTimer);
-  $("#apply").click(setsettings);
+  $("#apply").click(updatedata);
   $("#sampletime").text(sampleTimeMsec.toString());
   $("#samplenumber").text(maxSamplesNumber.toString());
 });
