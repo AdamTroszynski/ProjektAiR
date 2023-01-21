@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+	<!-- HTML file head: web page metadata -->
+	<head>
+		<title>HTML/JavaScript/CSS (Boostrap) examples</title>
+		<!-- jQuery -->
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
+		
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+		
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+		
+		<!-- Chart.js library -->
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+		
+		
+		<script type="text/javascript" src="skrypt/wykres.js"></script> 
+		<script type="text/javascript" src="skrypt/led_matrix.js"></script> 
+		<link rel="stylesheet" type="text/css" href="styles/datagrabber_example_css.css">
+	</head>
+
+	<!-- HTML file body: web page content -->
+	<body>
+		<h1 class="text-center">Drawing Graphs</h1>
+		<div id="datagrabber" class="container border border-primary rounded datagrabber">
+			<ul class="nav">
+				<li><button id="start" type="button" class="btn btn-primary menuitem">Start</button></li>
+				<li><button id="stop" type="button" class="btn btn-primary menuitem">Stop</button></li>
+				<li><div class="border border-primary rounded menuitem"><span>Sample time: <span id="sampletime"></span> ms</span></div></li>  
+				<li><div class="border border-primary rounded menuitem"><span>Max. number of samples: <span id="samplenumber"></span></span></div></li>  
+			</ul>
+			<div class="chartcontainer">
+				<canvas id="chart"></canvas>
+			</div>
+		</div>
+		<h1 class="text-center">Setting the colors of individual LEDs</h1>
+		<div id="ledsettings" class="container border border-primary rounded datagrabber">
+			<div class="container" id="main">
+				<div class="row">
+					<div class="col-12">
+						List of elements:
+					</div>
+				</div>
+			</div>
+			<div id="request"></div>	
+		</div>
+		<h1 class="text-center">Configuration Settings</h1>
+		<div id="apksettings" class="container border border-primary rounded datagrabber">
+			<ul class="nav">
+				<div class="input-group mb-3">
+				  <div class="input-group-prepend">
+					<span class="input-group-text" id="basic-addon1">Ip Adress:</span>
+				  </div> 
+				  <input type="text" class="form-control" id="ipadres" value="192.168.0.13:800">
+				</div>
+			
+				 <div class="input-group mb-3">
+				  <div class="input-group-prepend">
+					<span class="input-group-text" id="basic-addon1">Sample time:</span>
+				  </div> 
+				  <input type="number" class="form-control" id="sample" value="100">
+				  <div class="input-group-append">
+					<span class="input-group-text" id="basic-addon1">ms</span>
+				  </div>  
+				</div>
+				
+				<div class="input-group mb-3">
+				  <div class="input-group-prepend">
+					<span class="input-group-text" id="basic-addon1">Max. number of samples:</span>
+				  </div> 
+				  <input type="number" class="form-control" id="maxsample" value="100">
+				</div>
+				
+				<div class="input-group mb-3">
+				  <div class="input-group-prepend">
+					<span class="input-group-text" id="basic-addon1">API verison:</span>
+				  </div> 
+				  <input type="number" class="form-control" id="apiver" value="1"> 
+				   <div class="input-group-append">
+					<button class="btn btn-outline-dark" type="button" id="apply">Apply</button>
+				  </div>
+				</div>
+			</ul>
+		</div>
+	</body>
+</html>
