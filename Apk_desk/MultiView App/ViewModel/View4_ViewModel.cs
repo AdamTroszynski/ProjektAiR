@@ -72,7 +72,7 @@ namespace MultiViewApp.ViewModel
         private int timeStamp = 0;
         private ConfigParams config = new ConfigParams();
         private Timer RequestTimer;
-        private ServerIoT ServerIoT;
+        //private ServerIoT ServerIoT;
         #endregion
 
         public View4_ViewModel()
@@ -131,8 +131,8 @@ namespace MultiViewApp.ViewModel
 
                 if (time >= config.XAxisMax)
                 {
-                    DataPlotModel.Axes[i].Minimum = (time - config.XAxisMax);
-                    DataPlotModel.Axes[i].Maximum = time + config.SampleTime / 1000.0; ;
+                    DataPlotModel.Axes[0].Minimum = (time - config.XAxisMax);
+                    DataPlotModel.Axes[0].Maximum = time + config.SampleTime / 1000.0; ;
                 }
             }
 
@@ -144,40 +144,6 @@ namespace MultiViewApp.ViewModel
           *        data obtained from IoT server responses.
           * @param ip IoT server IP address.
           */
-        private async void UpdatePlotWithServerResponse()
-        {
-#if CLIENT
-#if GET
-            string responseText = await ServerIoT.GETwithClient();
-#else
-            string responseText = await Server.POSTwithClient();
-#endif
-#else
-#if GET
-            string responseText = await Server.GETwithRequest();
-#else
-            string responseText = await Server.POSTwithRequest();
-#endif
-#endif
-            try
-            {
-#if DYNAMIC
-                dynamic resposneJson = JObject.Parse(responseText);
-                UpdatePlot(timeStamp / 1000.0, (double)resposneJson.data);
-#else
-                ServerData resposneJson = JsonConvert.DeserializeObject<ServerData>(responseText);
-                //UpdatePlot(timeStamp / 1000.0, resposneJson.data, 10.0f, 20.0f);
-#endif
-            }
-            catch (Exception e)
-            {
-                Debug.WriteLine("JSON DATA ERROR");
-                Debug.WriteLine(responseText);
-                Debug.WriteLine(e);
-            }
-
-            timeStamp += config.SampleTime;
-        }
 
         /**
           * @brief Synchronous procedure for request queries to the IoT server.
@@ -268,7 +234,7 @@ namespace MultiViewApp.ViewModel
             config = new ConfigParams();
             IpAddress = config.IpAddress;
             SampleTime = config.SampleTime.ToString();
-            ServerIoT = new ServerIoT("HTTPS", IpAddress);
+            //ServerIoT = new ServerIoT("HTTPS", IpAddress);
 
             if (restartTimer)
                 StartTimer();

@@ -38,3 +38,43 @@ C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\De
 C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\net6.0-windows\MultiView App.pdb
 C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\net6.0-windows\MultiView App.genruntimeconfig.cache
 C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\net6.0-windows\ref\MultiView App.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\MultiView App.exe
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\MultiView App.deps.json
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\MultiView App.runtimeconfig.json
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\MultiView App.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\MultiView App.pdb
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\ControlzEx.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\MahApps.Metro.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\bin\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App.csproj.AssemblyReference.cache
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\View\View1.g.cs
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\View\View3.g.cs
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\View\View4.g.cs
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\View\View5.g.cs
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App_MarkupCompile.cache
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App_MarkupCompile.lref
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\App.baml
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\View\View1.baml
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\View\View3.baml
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\View\View4.baml
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\View\View5.baml
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App.g.resources
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App.AssemblyInfoInputs.cache
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App.AssemblyInfo.cs
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App.csproj.CoreCompileInputs.cache
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App.csproj.CopyComplete
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\refint\MultiView App.dll
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App.pdb
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\MultiView App.genruntimeconfig.cache
+C:\Users\adass\Desktop\Adam_desk_21.01.2023\MultiView App\obj\Debug\net6.0-windows\ref\MultiView App.dll

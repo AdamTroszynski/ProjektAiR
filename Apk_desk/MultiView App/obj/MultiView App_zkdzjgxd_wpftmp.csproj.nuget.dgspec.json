@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kamadol\\Desktop\\Wszystko\\Studia\\Semestr 7\\AiR\\Adam\\MultiView App\\MultiView App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kamadol\\Desktop\\Wszystko\\Studia\\Semestr 7\\AiR\\Adam\\MultiView App\\MultiView App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kamadol\\Desktop\\Wszystko\\Studia\\Semestr 7\\AiR\\Adam\\MultiView App\\MultiView App.csproj",
+        "projectName": "MultiView App",
+        "projectPath": "C:\\Users\\Kamadol\\Desktop\\Wszystko\\Studia\\Semestr 7\\AiR\\Adam\\MultiView App\\MultiView App.csproj",
+        "packagesPath": "C:\\Users\\Kamadol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kamadol\\Desktop\\Wszystko\\Studia\\Semestr 7\\AiR\\Adam\\MultiView App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kamadol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "ControlzEx": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "MahApps.Metro": {
+              "target": "Package",
+              "version": "[2.4.9, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.39, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "OxyPlot.Core": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "OxyPlot.Wpf": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

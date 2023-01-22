@@ -12,7 +12,6 @@ namespace MultiViewApp.ViewModel
         private readonly Action<string, Color> setColorHandler;
 
         private LedDisplay ledDisplay;  //!< LED display model
-        private IoTServer server;       //!< IoT server model
 
         #endregion Fileds
 
@@ -111,8 +110,6 @@ namespace MultiViewApp.ViewModel
             CommonButtonCommand = new ButtonCommandWithParameter(SetButtonColor);
             SendRequestCommand = new ButtonCommand(SendControlRequest);
             SendClearCommand = new ButtonCommand(ClearDisplay);
-
-            server = new IoTServer("localhost");
         }
 
         #region Methods

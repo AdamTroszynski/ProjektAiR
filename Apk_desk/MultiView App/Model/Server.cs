@@ -10,10 +10,10 @@ namespace MultiViewApp.Model
 {
     class Server
     {
-        private static string currIp = "192.168.0.18:8080";
-        private static string getDataPath = "/AiR_Projekt/get_chart_mes.php";
+        private static string currIp = "192.168.0.21";
+        private static string getDataPath = "/ProjektAiR/get_chart_mes.php";
         //private static string setDataPath = "/AiR_Projekt/write_to_file.php";
-        private static string setDataPath = "/AiR_Projekt/led_display.php";
+        private static string setDataPath = "/ProjektAiR/led_display.php";
         private static string getDataURL = "http://" + currIp.ToString() + getDataPath;
         private static string sendDataURL = "http://" + currIp.ToString() + setDataPath;
 

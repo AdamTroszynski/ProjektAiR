@@ -34,7 +34,7 @@ namespace MultiViewApp.ViewModel
         {
             // Read data from server in JSON array format
             // TODO: replace mock with network comunnication
-
+            Measurements.Clear();
             //String json = await TestAsyncAwaitMethods();
             JArray measurementsJsonArray;
             string json = await Server.GetData();
