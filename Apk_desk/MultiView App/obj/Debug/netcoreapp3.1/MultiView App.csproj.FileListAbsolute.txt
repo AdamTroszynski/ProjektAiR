@@ -1,0 +1,176 @@
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.exe
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.deps.json
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.runtimeconfig.json
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.runtimeconfig.dev.json
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.dll
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.pdb
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csprojAssemblyReference.cache
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View1.g.cs
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View2.g.cs
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App_MarkupCompile.cache
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App_MarkupCompile.lref
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View1.baml
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View2.baml
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.g.resources
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.AssemblyInfoInputs.cache
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.AssemblyInfo.cs
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.CoreCompileInputs.cache
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.dll
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.pdb
+C:\PP\Dydaktyka\AMiWdIP-L\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.genruntimeconfig.cache
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.exe
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.deps.json
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.runtimeconfig.json
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.runtimeconfig.dev.json
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.dll
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.pdb
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View1.g.cs
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View2.g.cs
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App_MarkupCompile.cache
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App_MarkupCompile.lref
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View1.baml
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View2.baml
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.g.resources
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.AssemblyInfoInputs.cache
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.AssemblyInfo.cs
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.dll
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.pdb
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.genruntimeconfig.cache
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View3.g.cs
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View4.g.cs
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View3.baml
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\View\View4.baml
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\pawel\Desktop\AMiWdIP-L-main\Desktop\MultiView App\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.CopyComplete
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\View\View4.g.cs
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App_MarkupCompile.cache
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App_MarkupCompile.lref
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.dll
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.pdb
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\View\View3.g.cs
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.exe
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.deps.json
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.runtimeconfig.json
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.runtimeconfig.dev.json
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.dll
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.pdb
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\View\View3.baml
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\View\View4.baml
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.g.resources
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.AssemblyInfoInputs.cache
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.AssemblyInfo.cs
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.CopyComplete
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.genruntimeconfig.cache
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\OxyPlot.dll
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.dll
+C:\Users\pawel\Desktop\airapp\MultiView App\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.Shared.dll
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\View\View1.g.cs
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\View\View1.baml
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\View\View5.g.cs
+C:\Users\pawel\Desktop\airapp\MultiView App\obj\Debug\netcoreapp3.1\View\View5.baml
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\View\View1.g.cs
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\View\View3.g.cs
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\View\View4.g.cs
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\View\View5.g.cs
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App_MarkupCompile.cache
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App_MarkupCompile.lref
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.dll
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.pdb
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.exe
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.deps.json
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.runtimeconfig.json
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.runtimeconfig.dev.json
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.dll
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.pdb
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\OxyPlot.dll
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.dll
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.Shared.dll
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\View\View1.baml
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\View\View3.baml
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\View\View4.baml
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\View\View5.baml
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.g.resources
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.AssemblyInfoInputs.cache
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.AssemblyInfo.cs
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.CopyComplete
+C:\Users\pawel\Desktop\airapp — kopia\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.genruntimeconfig.cache
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.exe
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.deps.json
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.runtimeconfig.json
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.runtimeconfig.dev.json
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\MultiView App.pdb
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\OxyPlot.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.Shared.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.AssemblyReference.cache
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\View\View1.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\View\View3.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\View\View4.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\View\View5.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App_MarkupCompile.cache
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App_MarkupCompile.lref
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\View\View1.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\View\View3.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\View\View4.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\View\View5.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.g.resources
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.AssemblyInfoInputs.cache
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.AssemblyInfo.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.CoreCompileInputs.cache
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.csproj.CopyComplete
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.pdb
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Debug\netcoreapp3.1\MultiView App.genruntimeconfig.cache

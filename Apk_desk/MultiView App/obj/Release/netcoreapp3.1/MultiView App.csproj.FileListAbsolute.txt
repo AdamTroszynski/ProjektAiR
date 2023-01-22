@@ -1,0 +1,40 @@
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\MultiView App.exe
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\MultiView App.deps.json
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\MultiView App.runtimeconfig.json
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\MultiView App.runtimeconfig.dev.json
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\MultiView App.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\MultiView App.pdb
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\ControlzEx.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\OxyPlot.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\OxyPlot.Wpf.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\OxyPlot.Wpf.Shared.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\bin\Release\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App.csproj.AssemblyReference.cache
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\View\View1.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\View\View3.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\View\View4.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\View\View5.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App_MarkupCompile.cache
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App_MarkupCompile.lref
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\App.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\View\MainWindow.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\View\View1.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\View\View3.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\View\View4.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\View\View5.baml
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App.g.resources
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App.AssemblyInfoInputs.cache
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App.AssemblyInfo.cs
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App.csproj.CoreCompileInputs.cache
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App.csproj.CopyComplete
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App.dll
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App.pdb
+C:\Users\Kamadol\Desktop\Wszystko\Studia\Semestr 7\AiR\Adam\MultiView App\obj\Release\netcoreapp3.1\MultiView App.genruntimeconfig.cache
